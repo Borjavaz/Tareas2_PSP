@@ -1,4 +1,4 @@
-package Tarea37;
+package Tareas.Tarea37;
 
 import java.util.Scanner;
 
